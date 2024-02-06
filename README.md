@@ -5,8 +5,7 @@ Welcome to my Java Fundamentals Practice repository! This project is dedicated t
 <br>
 ## Author
 
-- **Rijan Acahrya**: [Your GitHub Profile](https://github.com/yourusername)
-
+  - **Rijan Acahrya**:[https://github.com/Rijan77/Fundamentals-of-Java.git]
 ##Project Structure
 <br>
 The project is organized into different packages, each focusing on a specific area of Java fundamentals. Here's a brief overview:
